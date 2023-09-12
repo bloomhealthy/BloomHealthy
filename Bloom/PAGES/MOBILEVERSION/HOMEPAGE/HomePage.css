@@ -1,0 +1,32 @@
+.AppName{
+    position: relative;
+    left: 2%;
+    top: 2%;
+    font-size: 25px;
+}
+
+.AddIcon{
+    position: absolute;
+    width: 30px;
+    right: 30%;
+    top: 2%;
+}
+
+.AccountIcon{
+    position: absolute;
+    width: 30px;
+    right: 3%;
+    top: 2%;
+}
+
+.MessageDiv{
+    position: relative;
+    width: 100%;
+    height: 20%;
+    background: rgb(36, 35, 35);
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    display: block;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
