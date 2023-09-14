@@ -2,7 +2,7 @@
     "description": "A medical App from E-corp Company Group",
     "theme_color": "#2156ab",
     "background_color": "#1e66a9",
-    "display": "fullscreen",
+    "display": "standalone",
     "scope": "/",
     "start_url": "../App/index.html", 
     "icons": [
